@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{_('Dublin City')}}</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <img src="../static/assets/img/dublin_logo_transparent.png" alt="Visit Dublin Logo" class="logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">{{_('Home')}}</a></li>
+                <li><a href="#">{{_('Destinations')}}</a></li>
+                <li><a href="#">{{_('Tours')}}</a></li>
+                <li><a href="#">{{_('Contacts')}}</a></li>
+                <li class="lang-toggle"><a href="/set-lang/en">EN</a> | <a href="/set-lang/da">DA</a>| <a href="/set-lang/el">el</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="city-background">
+            <div class="overlay">
+                <div class="hero-container">
+                    <div class="hero">
+                        <h1>{{_('Welcome to Dublin')}}</h1>
+                        <p>{{_('Discover the best places to visit, eat and enjoy')}}</p>
+                        <div class="main-text">
+                            <p>{{_('Discover Dublin, the heart of Ireland, where history and modernity blend seamlessly. Wander through cobbled streets, explore ancient castles, and revel in the vibrant nightlife. Experience the warmth of Irish hospitality in cozy pubs, savoring local delicacies. Immerse yourself in rich cultural heritage at world-class museums and galleries. Dublin awaits with open arms, offering unforgettable memories. Come for the sights, stay for the stories. Dublin, where every corner tells a tale, invites you.')}}</p>
+                        </div>
+                    </div>
+                    <div class="photo-right">
+                        <img src="../static/assets/img/dublin_portrait.jpeg" alt="Dublin Portrait" class="image-border">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="card-features">
+            <article class="card">
+                <h2>{{_('Nightlife')}}</h2>
+                <p>{{_('Explore the city\'s rich nightlife')}}</p>
+                <img src="../static/assets/img/nightlife.jpg" alt="Ha'penny bridge">
+            </article>
+            <article class="card">
+                <h2>{{_('Gourmet Delights')}}</h2>
+                <p>{{_('Savor the flavors of the city\'s best kitchens.')}}</p>
+                <img src="../static/assets/img/sophies.jpg" alt="Sophies Restaurant">
+            </article>
+            <article class="card">
+                <h2>{{_('Adventure Outdoors')}}</h2>
+                <p>{{_('Find your thrill with outdoor activities for all ages.')}}</p>
+                <img src="../static/assets/img/outdoor.jpg" alt="Outdoor card image">
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;{{_('2024 Dublin. All rights reserved.')}}</p>
+    </footer>
+</body>
+</html>

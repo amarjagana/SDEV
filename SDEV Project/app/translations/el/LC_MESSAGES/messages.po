@@ -1,0 +1,78 @@
+# Greek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-04-12 13:11+0100\n"
+"PO-Revision-Date: 2024-04-19 16:51+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: templates/english.html:6 templates/korean.html:6
+msgid "Dublin City"
+msgstr "Πόλη του Δουβλίνου"
+
+#: templates/english.html:16 templates/korean.html:16
+msgid "Home"
+msgstr "Αρχική"
+
+#: templates/english.html:17 templates/korean.html:17
+msgid "Destinations"
+msgstr "Προορισμοί"
+
+#: templates/english.html:18 templates/korean.html:18
+msgid "Tours"
+msgstr "Περιηγήσεις"
+
+#: templates/english.html:19 templates/korean.html:19
+msgid "Contacts"
+msgstr "Επαφές"
+
+#: templates/english.html:29 templates/korean.html:29
+msgid "Welcome to Dublin"
+msgstr "Καλώς ήρθατε στο Δουβλίνο"
+
+#: templates/english.html:30 templates/korean.html:30
+msgid "Discover the best places to visit, eat and enjoy"
+msgstr "Ανακαλύψτε τα καλύτερα μέρη για επίσκεψη, φαγητό και απόλαυση"
+
+#: templates/english.html:32 templates/korean.html:32
+msgid ""
+"Discover Dublin, the heart of Ireland, where history and modernity blend "
+"seamlessly. Wander through cobbled streets, explore ancient castles, and "
+"revel in the vibrant nightlife. Experience the warmth of Irish "
+"hospitality in cozy pubs, savoring local delicacies. Immerse yourself in "
+"rich cultural heritage at world-class museums and galleries. Dublin "
+"awaits with open arms, offering unforgettable memories. Come for the "
+"sights, stay for the stories. Dublin, where every corner tells a tale, "
+"invites you."
+msgstr ""
+"Ανακαλύψτε το Δουβλίνο, την καρδιά της Ιρλανδίας, όπου η ιστορία και η "
+"σύγχρονη εποχή αναμειγνύονται αρμονικά. Περπατήστε στα πλακόστρωτα "
+"δρομάκια, εξερευνήστε τα αρχαία κάστρα και απολαύστε την παραμυθένια "
+"νυχτερινή ζωή. Ζήστε τη θαλπωρή της ιρλανδικής φιλοξενίας σε "
+"ζεστά παμπ, απολαμβάνοντας τις τοπικές λιχουδιές. Εμβαθύνετε στην "
+"πλούσια πολιτιστική κληρονομιά σε μουσεία και γκαλερί παγκόσμιας κλάσης. "
+"Το Δουβλίνο σας περιμένει με ανοιχτές αγκάλες, προσφέροντας αξέχαστες "
+"στιγμές. Ελάτε για τα αξιοθέατα, μείνετε για τις ιστορίες. Το Δουβλίνο, "
+"όπου κάθε γωνιά λέει μια ιστορία, σας καλεί."
+
+#: templates/english.html:44 templates/korean.html:44
+msgid "Nightlife"
+msgstr "Νυχτερινή διασκέδαση"
+
+#: templates/english.html:45 templates/korean.html:45
+msgid "Explore the city's rich nightlife"
+msgstr "Εξερευνήστε την πλούσια νυχτερινή ζωή της πόλης"
+
+#: templates/english.html:49 templates/korean.html:49

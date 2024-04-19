@@ -1,0 +1,107 @@
+# Danish translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-04-12 13:11+0100\n"
+"PO-Revision-Date: 2024-04-19 16:51+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: da\n"
+"Language-Team: da <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: templates/english.html:6 templates/korean.html:6
+msgid "Dublin City"
+msgstr "Dublin By"
+
+#: templates/english.html:16 templates/korean.html:16
+msgid "Home"
+msgstr "Hjem"
+
+#: templates/english.html:17 templates/korean.html:17
+msgid "Destinations"
+msgstr "Destinationer"
+
+#: templates/english.html:18 templates/korean.html:18
+msgid "Tours"
+msgstr "Ture"
+
+#: templates/english.html:19 templates/korean.html:19
+msgid "Contacts"
+msgstr "Kontakter"
+
+#: templates/english.html:29 templates/korean.html:29
+msgid "Welcome to Dublin"
+msgstr "Velkommen til Dublin"
+
+#: templates/english.html:30 templates/korean.html:30
+msgid "Discover the best places to visit, eat and enjoy"
+msgstr "Opdag de bedste steder at besøge, spise og nyde"
+
+#: templates/english.html:32 templates/korean.html:32
+msgid ""
+"Discover Dublin, the heart of Ireland, where history and modernity blend "
+"seamlessly. Wander through cobbled streets, explore ancient castles, and "
+"revel in the vibrant nightlife. Experience the warmth of Irish "
+"hospitality in cozy pubs, savoring local delicacies. Immerse yourself in "
+"rich cultural heritage at world-class museums and galleries. Dublin "
+"awaits with open arms, offering unforgettable memories. Come for the "
+"sights, stay for the stories. Dublin, where every corner tells a tale, "
+"invites you."
+msgstr ""
+
+#: templates/english.html:44 templates/korean.html:44
+msgid "Nightlife"
+msgstr "Natteliv"
+
+#: templates/english.html:45 templates/korean.html:45
+msgid "Explore the city's rich nightlife"
+msgstr "Udforsk byens rige natteliv"
+
+#: templates/english.html:49 templates/korean.html:49
+msgid "Gourmet Delights"
+msgstr "Gourmetglæder"
+
+#: templates/english.html:50 templates/korean.html:50
+msgid "Savor the flavors of the city's best kitchens."
+msgstr "Nyde smagene fra byens bedste køkkener."
+
+#: templates/english.html:54 templates/korean.html:54
+msgid "Adventure Outdoors"
+msgstr "Eventyr udendørs"
+
+#: templates/english.html:55 templates/korean.html:55
+msgid "Find your thrill with outdoor activities for all ages."
+msgstr "Find din spænding med udendørs aktiviteter for alle aldre."
+
+#: templates/english.html:61 templates/korean.html:80
+msgid "2024 Dublin. All rights reserved."
+msgstr "2024 Dublin. Alle rettigheder forbeholdes."
+
+#: templates/korean.html:60
+msgid "Testimonials"
+msgstr "Anmeldelser"
+
+#: templates/korean.html:62
+msgid "My experience was fantastic..."
+msgstr "Min oplevelse var fantastisk..."
+
+#: templates/korean.html:63
+msgid "- Zhang Wei"
+msgstr "- Zhang Wei"
+
+#: templates/korean.html:66
+msgid "I loved the vibrant Irish culture..."
+msgstr "Jeg elskede den livlige irske kultur..."
+
+#: templates/korean.html:67
+msgid "- Mao Li"
+msgstr "- Mao Li"
