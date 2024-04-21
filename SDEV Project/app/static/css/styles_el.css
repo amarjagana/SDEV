@@ -1,0 +1,80 @@
+body {
+    background-color: #1269C7; /* Define primary color for Greek */
+}
+
+
+
+.main-text {
+    font-size: 30px;
+    color: white; /* Change main text color to white */
+    max-width: 900px;
+    padding-right: 100px;
+    font-weight: bold;
+    font-family:  Gentium;
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif, 'arial';
+    font-weight: bold;
+    color: white; /* Change text color to white */
+}
+
+
+p,
+h2,
+h3,
+h4 {
+    color: white; /* Change text color to white */
+}
+
+
+
+.hero-container {
+    background-color: darkgrey; /* Change background color of hero container */
+    color: white; /* Change text color of hero container */
+}
+
+
+
+
+/* Style navigation links */
+.nav-links li a {
+    color: darkgray;
+
+}
+
+
+/* Style card features section */
+.card-features {
+    background-color:darkgray; /* Set background color to gray */
+    /* Add any other styles you want for the card features section */
+}
+
+/* Style testimonials section */
+.testimonials {
+    background-color:darkgrey; /* Set background color to gray */
+    /* Add any other styles you want for the testimonials section */
+}
+
+
+
+.testimonials {
+    background-color: darkgray; /* Set background color to gray */
+    /* Add any other styles you want for the testimonials section */
+}
+
+
+.card {
+    background-color:darkgray; /* Set background color to dark gray */
+    color: white; /* Set text color to white */
+    /* Add any other styles you want for the card */
+}
+
+
+/* Style partner-brands section */
+.partner-brands {
+    background-color: darkgray; /* Set background color to dark gray */
+    color: white; /* Set text color to white */
+    /* Add any other styles you want for the partner-brands section */
+}
