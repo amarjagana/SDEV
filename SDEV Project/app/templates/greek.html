@@ -9,9 +9,12 @@
 <body>
     <header>
         <nav class="navbar">
-            <div class="logo">
-                <img src="../static/assets/img/dublin_logo_transparent.png" alt="Visit Dublin Logo" class="logo">
+
+            <div class="photo-left">
+                <img src="../static/assets/img/DublinCC.webp" alt="Dublin City">
             </div>
+            
+            
             <ul class="nav-links">
                 <li><a href="#">{{_('Home')}}</a></li>
                 <li><a href="#">{{_('Destinations')}}</a></li>
@@ -33,7 +36,7 @@
                         </div>
                     </div>
                     <div class="photo-right">
-                        <img src="../static/assets/img/dublin_portrait.jpeg" alt="Dublin Portrait" class="image-border">
+                        <img src="../static/assets/img/bridge.jpg" alt="Dublin Portrait" class="image-border">
                     </div>
                 </div>
             </div>
@@ -43,59 +46,54 @@
             <article class="card">
                 <h2>{{_('Nightlife')}}</h2>
                 <p>{{_('Explore the city\'s rich nightlife')}}</p>
-                <img src="../static/assets/img/nightlife.jpg" alt="Ha'penny bridge">
+                <img src="../static/assets/img/templebar.jpg" >
             </article>
             <article class="card">
                 <h2>{{_('Gourmet Delights')}}</h2>
                 <p>{{_('Savor the flavors of the city\'s best kitchens.')}}</p>
-                <img src="../static/assets/img/sophies.jpg" alt="Sophies Restaurant">
+                <img src="../static/assets/img/seafood-chowder-pic.webp">
             </article>
             <article class="card">
                 <h2>{{_('Adventure Outdoors')}}</h2>
                 <p>{{_('Find your thrill with outdoor activities for all ages.')}}</p>
-                <img src="../static/assets/img/outdoor.jpg" alt="Outdoor card image">
+                <img src="../static/assets/img/cliffs.jpeg" >
             </article>
         </section>
-        <div class="contact-form">
-            <div class="contact-header">
-                <h2>{{_('Contact Us')}}</h2>
+        
+        <div class="partner-brands">
+            <h2>{{_('Our Partner Brands')}}</h2>
+            <div class="brand-container">
+                <img src="../static/assets/img/brand.jpg" alt="Brand 1">
+                <img src="../static/assets/img/download (1).png" alt="Brand 2">
+                <img src="../static/assets/img/download.png" alt="Brand 3">
             </div>
-            <div class="row">
-                <h4 style="text-align:center">{{_('We\'d love to hear from you!')}}</h4>
-            </div>
-            <div class="row input-container">
-                <div class="col-xs-12">
-                    <div class="styled-input wide">
-                        <input type="text" required />
-                        <label>{{_('Name')}}</label>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-12">
-                    <div class="styled-input">
-                        <input type="text" required />
-                        <label>{{_('Email')}}</label>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-12">
-                    <div class="styled-input" style="float:right;">
-                        <input type="text" required />
-                        <label>{{_('Phone Number')}}</label>
-                    </div>
-                </div>
-                <div class="col-xs-12">
-                    <div class="styled-input wide">
-                        <textarea required></textarea>
-                        <label>{{_('Message')}}</label>
-                    </div>
-                </div>
-                <div class="col-xs-12">
-                    <div class="btn-lrg submit-btn">{{_('Send Message')}}</div>
-                </div>
+            
+        </div>
+        
             </div>
         </div>
+
+
+        <div class="testimonials">
+            <h2>{{_('Testimonials')}}</h2>
+            <div class="testimonial-item">
+                <p class="testimonial-text">{{_("Felt so safe")}}</p>
+                <p class="testimonial-author">{{_('- Iris Atlas')}}</p>
+            </div>
+            <div class="testimonial-item">
+                <p class="testimonial-text">{{_("The locals are so welcoming")}}</p>
+                <p class="testimonial-author">{{_('- Achilles')}}</p>
+            </div>
+        </div>
+
+
+        <div class="hurling-experience">
+        <p>Experience the thrill of hurling, an ancient Gaelic sport deeply embedded in Irish culture. Join our tours to learn about the history and techniques of this fascinating sport, and even try your hand at playing it yourself!</p>
+        <img src="../static/assets/img/hurl.jpeg" alt="Hurling Experience">
+    </div>
     </main>
     <footer>
-        <p>&copy;{{_('2024 Dublin. All rights reserved.')}}</p>
+        <p>&copy;{{_('Dublin City Tourism')}}</p>
     </footer>
 </body>
 </html>
