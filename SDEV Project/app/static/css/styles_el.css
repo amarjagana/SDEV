@@ -60,10 +60,12 @@ h4 {
 
 
 .testimonials {
-    background-color: darkgray; /* Set background color to gray */
-    /* Add any other styles you want for the testimonials section */
-}
+    background-color: darkgray; 
+    width: 450px ;
+    height: 400px;
 
+    
+}
 
 .card {
     background-color:darkgray; /* Set background color to dark gray */
@@ -77,4 +79,6 @@ h4 {
     background-color: darkgray; /* Set background color to dark gray */
     color: white; /* Set text color to white */
     /* Add any other styles you want for the partner-brands section */
+    width: 450px ;
+    height: 400px;
 }

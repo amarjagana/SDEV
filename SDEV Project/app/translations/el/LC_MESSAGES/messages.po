@@ -75,4 +75,12 @@ msgstr "Νυχτερινή διασκέδαση"
 msgid "Explore the city's rich nightlife"
 msgstr "Εξερευνήστε την πλούσια νυχτερινή ζωή της πόλης"
 
+
+msgid "Gourmet Delights"
+msgstr "Απολαύστε τις γεύσεις των καλύτερων κουζινών της πόλης."
+
+msgid "Adventure Outdoors"
+msgstr "Βρείτε τον έντονο περιπατητικό σας με δραστηριότητες στη φύση για όλες τις ηλικίες."
+
+
 #: templates/english.html:49 templates/korean.html:49
