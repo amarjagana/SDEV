@@ -17,70 +17,56 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
-
-#: templates/english.html:6 templates/korean.html:6
 msgid "Dublin City"
 msgstr "Πόλη του Δουβλίνου"
 
-#: templates/english.html:16 templates/korean.html:16
 msgid "Home"
 msgstr "Αρχική"
 
-#: templates/english.html:17 templates/korean.html:17
 msgid "Destinations"
 msgstr "Προορισμοί"
 
-#: templates/english.html:18 templates/korean.html:18
 msgid "Tours"
-msgstr "Περιηγήσεις"
+msgstr "Ξεναγήσεις"
 
-#: templates/english.html:19 templates/korean.html:19
 msgid "Contacts"
-msgstr "Επαφές"
+msgstr "Επικοινωνία"
 
-#: templates/english.html:29 templates/korean.html:29
-msgid "Welcome to Dublin"
-msgstr "Καλώς ήρθατε στο Δουβλίνο"
-
-#: templates/english.html:30 templates/korean.html:30
-msgid "Discover the best places to visit, eat and enjoy"
-msgstr "Ανακαλύψτε τα καλύτερα μέρη για επίσκεψη, φαγητό και απόλαυση"
-
-#: templates/english.html:32 templates/korean.html:32
-msgid ""
-"Discover Dublin, the heart of Ireland, where history and modernity blend "
-"seamlessly. Wander through cobbled streets, explore ancient castles, and "
-"revel in the vibrant nightlife. Experience the warmth of Irish "
-"hospitality in cozy pubs, savoring local delicacies. Immerse yourself in "
-"rich cultural heritage at world-class museums and galleries. Dublin "
-"awaits with open arms, offering unforgettable memories. Come for the "
-"sights, stay for the stories. Dublin, where every corner tells a tale, "
-"invites you."
-msgstr ""
-"Ανακαλύψτε το Δουβλίνο, την καρδιά της Ιρλανδίας, όπου η ιστορία και η "
-"σύγχρονη εποχή αναμειγνύονται αρμονικά. Περπατήστε στα πλακόστρωτα "
-"δρομάκια, εξερευνήστε τα αρχαία κάστρα και απολαύστε την παραμυθένια "
-"νυχτερινή ζωή. Ζήστε τη θαλπωρή της ιρλανδικής φιλοξενίας σε "
-"ζεστά παμπ, απολαμβάνοντας τις τοπικές λιχουδιές. Εμβαθύνετε στην "
-"πλούσια πολιτιστική κληρονομιά σε μουσεία και γκαλερί παγκόσμιας κλάσης. "
-"Το Δουβλίνο σας περιμένει με ανοιχτές αγκάλες, προσφέροντας αξέχαστες "
-"στιγμές. Ελάτε για τα αξιοθέατα, μείνετε για τις ιστορίες. Το Δουβλίνο, "
-"όπου κάθε γωνιά λέει μια ιστορία, σας καλεί."
-
-#: templates/english.html:44 templates/korean.html:44
 msgid "Nightlife"
-msgstr "Νυχτερινή διασκέδαση"
+msgstr "Νυχτερινή Ζωή"
 
-#: templates/english.html:45 templates/korean.html:45
-msgid "Explore the city's rich nightlife"
+msgid "Explore the rich nightlife of the city"
 msgstr "Εξερευνήστε την πλούσια νυχτερινή ζωή της πόλης"
 
+msgid "Culinary Delights"
+msgstr "Γαστρονομικές Απολαύσεις"
 
-msgid "Gourmet Delights"
+msgid "Enjoy the flavors of the city's best cuisines."
 msgstr "Απολαύστε τις γεύσεις των καλύτερων κουζινών της πόλης."
 
-msgid "Adventure Outdoors"
-msgstr "Βρείτε τον έντονο περιπατητικό σας με δραστηριότητες στη φύση για όλες τις ηλικίες."
+msgid "Nature Adventure"
+msgstr "Περιπέτεια Στη Φύση"
 
+msgid "Find adrenaline with nature activities for all ages."
+msgstr "Βρείτε την αδρεναλίνη με δραστηριότητες στη φύση για όλες τις ηλικίες."
 
-#: templates/english.html:49 templates/korean.html:49
+msgid "Our Partner Brands"
+msgstr "Οι Συνεργαζόμενες Εταιρείες Μας"
+
+msgid "Testimonials"
+msgstr "Μαρτυρίες"
+
+msgid "I felt so safe"
+msgstr "Ένιωσα τόσο ασφαλής"
+
+msgid "Locals are so hospitable"
+msgstr "Οι ντόπιοι είναι τόσο φιλόξενοι"
+
+msgid "Experience the thrill of hurling, an ancient Gaelic sport deeply rooted in Irish culture. Join our tours to learn about the history and techniques of this fascinating sport and even try your luck in the game!"
+msgstr "Ζήστε την αίσθηση του hurling, ένα αρχαίο γαελικό άθλημα βαθιά ριζωμένο στον ιρλανδικό πολιτισμό. Συμμετάσχετε στις εκδρομές μας για να μάθετε για την ιστορία και τεχνικές αυτού του φασκιναντιού άθληματος και ακόμα να δοκιμάσετε την τύχη σας στο παιχνίδι!"
+
+msgid "Dublin City Tourism"
+msgstr "Τουρισμός Πόλης Δουβλίνου"
+
+msgid "Discover Dublin, the heart of Ireland, where history and modern times blend harmoniously. Wander the cobbled streets, explore ancient castles and enjoy the vibrant nightlife. Experience the warmth of Irish hospitality in traditional pubs while enjoying local delicacies. Immerse yourself in the rich cultural heritage in world-class museums and galleries. Dublin awaits with open arms, offering unforgettable experiences. Come for the sights, stay for the stories. Dublin, where every corner tells a story, beckons you."
+msgstr "Ανακαλύψτε το Δουβλίνο, την καρδιά της Ιρλανδίας, όπου η ιστορία και οι σύγχρονοι χρόνοι αναμειγνύονται αρμονικά. Περιπλανηθείτε στα ακονισμένα δρομάκια, εξερευνήστε αρχαία κάστρα και απολαύστε τη ζωντανή νυχτερινή ζωή. Ζήστε τη ζεστασιά της ιρλανδικής φιλοξενίας σε παραδοσιακές ταβέρνες, απολαμβάνοντας τοπικά εδέσματα. Εμβαθύνετε στον πλούτο της πολιτιστικής κληρονομιάς σε μουσεία και γκαλερί παγκόσμιας κλάσης. Το Δουβλίνο περιμένει με ανοιχτές αγκάλες, προσφέροντας αξέχαστες εμπειρίες. Έλα για τα αξιοθέατα, μείνε για τις ιστορίες. Το Δουβλίνο, όπου κάθε γωνιά αφηγείται μια ιστορία, σε προσκαλεί."

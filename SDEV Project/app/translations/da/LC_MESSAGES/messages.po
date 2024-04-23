@@ -18,90 +18,48 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: templates/english.html:6 templates/korean.html:6
-msgid "Dublin City"
-msgstr "Dublin By"
-
-#: templates/english.html:16 templates/korean.html:16
 msgid "Home"
 msgstr "Hjem"
 
-#: templates/english.html:17 templates/korean.html:17
 msgid "Destinations"
 msgstr "Destinationer"
 
-#: templates/english.html:18 templates/korean.html:18
 msgid "Tours"
 msgstr "Ture"
 
-#: templates/english.html:19 templates/korean.html:19
 msgid "Contacts"
 msgstr "Kontakter"
 
-#: templates/english.html:29 templates/korean.html:29
+
 msgid "Welcome to Dublin"
 msgstr "Velkommen til Dublin"
 
-#: templates/english.html:30 templates/korean.html:30
-msgid "Discover the best places to visit, eat and enjoy"
+msgid "Discover the best places to visit, eat, and enjoy"
 msgstr "Opdag de bedste steder at besøge, spise og nyde"
 
-#: templates/english.html:32 templates/korean.html:32
-msgid ""
-"Discover Dublin, the heart of Ireland, where history and modernity blend "
-"seamlessly. Wander through cobbled streets, explore ancient castles, and "
-"revel in the vibrant nightlife. Experience the warmth of Irish "
-"hospitality in cozy pubs, savoring local delicacies. Immerse yourself in "
-"rich cultural heritage at world-class museums and galleries. Dublin "
-"awaits with open arms, offering unforgettable memories. Come for the "
-"sights, stay for the stories. Dublin, where every corner tells a tale, "
-"invites you."
-msgstr ""
+msgid "Delve into Dublin's captivating blend of the past and present..."
+msgstr "Dyk ned i Dublins fængslende blanding af fortid og nutid..."
 
-#: templates/english.html:44 templates/korean.html:44
-msgid "Nightlife"
-msgstr "Natteliv"
+msgid "Learn about Dublin History"
+msgstr "Lær om Dublins historie"
 
-#: templates/english.html:45 templates/korean.html:45
-msgid "Explore the city's rich nightlife"
-msgstr "Udforsk byens rige natteliv"
+msgid "Discover the rich history and heritage of Dublin. Explore ancient landmarks, historical sites, and fascinating stories that shaped the city."
+msgstr "Opdag Dublins rige historie og arv. Udforsk gamle vartegn, historiske steder og fascinerende historier, der formede byen."
 
-#: templates/english.html:49 templates/korean.html:49
-msgid "Gourmet Delights"
-msgstr "Gourmetglæder"
+msgid "Sign Up for Email Subscription"
+msgstr "Tilmeld dig e-mailabonnement"
 
-#: templates/english.html:50 templates/korean.html:50
-msgid "Savor the flavors of the city's best kitchens."
-msgstr "Nyde smagene fra byens bedste køkkener."
+msgid "Stay updated with the latest news, events, and promotions in Dublin. Subscribe to our newsletter for exclusive offers and updates delivered straight to your inbox."
+msgstr "Hold dig opdateret med de seneste nyheder, begivenheder og kampagner i Dublin. Tilmeld dig vores nyhedsbrev for eksklusive tilbud og opdateringer, der leveres direkte til din indbakke."
 
-#: templates/english.html:54 templates/korean.html:54
-msgid "Adventure Outdoors"
-msgstr "Eventyr udendørs"
+msgid "Discover the rich nature in Dublin"
+msgstr "Opdag den rige natur i Dublin"
 
-#: templates/english.html:55 templates/korean.html:55
-msgid "Find your thrill with outdoor activities for all ages."
-msgstr "Find din spænding med udendørs aktiviteter for alle aldre."
+msgid "Explore Local Cuisine"
+msgstr "Udforsk lokal køkken"
 
-#: templates/english.html:61 templates/korean.html:80
-msgid "2024 Dublin. All rights reserved."
-msgstr "2024 Dublin. Alle rettigheder forbeholdes."
+msgid "Indulge in traditional Irish dishes and trendy eateries. Experience unique flavors and culinary delights, satisfying your foodie cravings."
+msgstr "Forkæl dig selv med traditionelle irske retter og trendy spisesteder. Oplev unikke smagsoplevelser og kulinariske lækkerier, der tilfredsstiller din madglæde."
 
-#: templates/korean.html:60
-msgid "Testimonials"
-msgstr "Anmeldelser"
-
-#: templates/korean.html:62
-msgid "My experience was fantastic..."
-msgstr "Min oplevelse var fantastisk..."
-
-#: templates/korean.html:63
-msgid "- Zhang Wei"
-msgstr "- Zhang Wei"
-
-#: templates/korean.html:66
-msgid "I loved the vibrant Irish culture..."
-msgstr "Jeg elskede den livlige irske kultur..."
-
-#: templates/korean.html:67
-msgid "- Mao Li"
-msgstr "- Mao Li"
+msgid "Dublin City Tourism"
+msgstr "Turisme i Dublin"
