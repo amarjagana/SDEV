@@ -5,47 +5,104 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{_('Dublin City')}}</title>
     <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="stylesheet" href="../static/css/styles_da.css">
 </head>
 <body>
-    <header>
+    <header style="background-color: white;">
         <nav class="navbar">
-            <div class="logo">
-                <img src="../static/assets/img/dublin_logo_transparent.png" alt="Visit Dublin Logo" class="logo">
+            <div class="photo-logo">
+                <img src="../static/assets/img/dublintourism.png" alt="Dublin Portrait" class="image-border">
             </div>
             <ul class="nav-links">
-                <li><a href="#">{{_('Home')}}</a></li>
-                <li><a href="#">{{_('Destinations')}}</a></li>
-                <li><a href="#">{{_('Tours')}}</a></li>
-                <li><a href="#">{{_('Contacts')}}</a></li>
-                <li class="lang-toggle"><a href="/set-lang/en">EN</a> | <a href="/set-lang/da">DA</a>| <a href="/set-lang/el">EL</a></li>
+                <li><a href="#" style="font-size: 20px;">{{_('Home')}}</a></li>
+                <li><a href="#" style="font-size: 20px;">{{_('Destinations')}}</a></li>
+                <li><a href="#" style="font-size: 20px;">{{_('Tours')}}</a></li>
+                <li><a href="#" style="font-size: 20px;">{{_('Contacts')}}</a></li>
+                <li class="lang-toggle">
+                    <a href="/set-lang/en">EN</a> | 
+                    <a href="/set-lang/da" class="active">DA</a>| 
+                    <a href="/set-lang/el">el</a>
+                </li>
             </ul>
         </nav>
     </header>
     <main>
         <div class="city-background">
             <div class="overlay">
-                <div class="hero-container">
+                <div class="hero-container" >
                     <div class="hero">
                         <h1>{{_('Welcome to Dublin')}}</h1>
-                        <p>{{_('Discover the best places to visit, eat and enjoy')}}</p>
+                        <p>{{_('Discover the best places to visit, eat, and enjoy')}}</p>
                         <div class="main-text">
-                            <p>{{_('Delve into Dublins captivating blend of the past and present, where historic castles and charming streets converge with lively nightlife. Immerse yourself in the warmth of Irish hospitality at welcoming pubs, where you can taste the essence of local cuisine. Embark on a journey through Dublins cultural legacy at esteemed museums, uncovering stories from centuries past.')}}</p>
+                            <p>{{_('Delve into Dublin\'s captivating blend of the past and present...')}}</p>
                         </div>
                     </div>
-                    <div class="photo-right">
-                        <img src="../static/assets/img/bridge.jpg" alt="Dublin Portrait" class="image-border">
+                    <div class="image-gallery">
+                        <img src="../static/assets/img/sophies.jpg" alt="Dublin Photo 1" title="Click here to find out more about Sophie's">
+                        <img src="../static/assets/img/trinners.jpg" alt="Dublin Photo 2" title="Click here to find out more about Trinners">
+                        <img src="../static/assets/img/templebar.jpg" alt="Dublin Photo 3" title="Click here to find out more about Temple Bar">
+                        <img src="../static/assets/img/park.jpg" alt="Dublin Photo 4" title="Click here to find out more about the Park">
+                        <button class="button-modern">Click More</button>
                     </div>
                 </div>
             </div>
         </div>
 
+
+        <div class="learn-about-dublin">
+            <div class="learn-about-dublin-text">
+                <h2>{{_('Learn about Dublin History')}}</h2>
+                <p>{{_('Discover the rich history and heritage of Dublin. Explore ancient landmarks, historical sites, and fascinating stories that shaped the city.')}}</p>
+                <button class="learn-about-dublin-button">{{_('Find out more')}}</button>
+            </div>
+            <div class="learn-about-dublin-image">
+                <img src="../static/assets/img/829.jpg" alt="Dublin History Photo">
+            </div>
+        </div>
+
+
+        <div class="email-subscription-container">
+            <div class="email-subscription">
+                <div class="email-subscription-text">
+                    <h2>{{_('Sign Up for Email Subscription')}}</h2>
+                    <p>{{_('Stay updated with the latest news, events, and promotions in Dublin. Subscribe to our newsletter for exclusive offers and updates delivered straight to your inbox.')}}</p>
+                    <form action="#" method="post">
+                        <input type="email" name="email" placeholder="Your Email Address" required>
+                        <button type="submit" class="email-subscription-button">{{_('Subscribe')}}</button>
+                    </form>
+                </div>
+            </div>
+        </div>
         
-       
-
-
-
-      
         
+
+
+
+
+
+        <div class="learn-about-nature">
+            <div class="learn-about-nature-text">
+                <h2>{{_('Learn about Dublin History')}}</h2>
+                <p>{{_('Discover the rich nature in Dublin')}}</p>
+                <button class="learn-about-nature-button">{{_('Find out more')}}</button>
+            </div>
+            <div class="learn-about-nature-image">
+                <img src="../static/assets/img/nature.webp" alt="Dublin History Photo">
+            </div>
+        </div>
+
+        <div class="local-cuisine">
+            <div class="local-cuisine-text">
+                <h2>{{_('Explore Local Cuisine')}}</h2>
+                <p>{{_('Indulge in traditional Irish dishes and trendy eateries. Experience unique flavors and culinary delights, satisfying your foodie cravings.')}}</p>
+                <button class="local-cuisine-button">{{_('Find out more')}}</button>
+            </div>
+            <div class="local-cuisine-image">
+                <img src="../static/assets/img/food.jpeg" alt="Local Cuisine Photo">
+            </div>
+        </div>
+        
+
 
     </main>
     <footer>
