@@ -70,3 +70,16 @@ msgstr "Τουρισμός Πόλης Δουβλίνου"
 
 msgid "Discover Dublin, the heart of Ireland, where history and modern times blend harmoniously. Wander the cobbled streets, explore ancient castles and enjoy the vibrant nightlife. Experience the warmth of Irish hospitality in traditional pubs while enjoying local delicacies. Immerse yourself in the rich cultural heritage in world-class museums and galleries. Dublin awaits with open arms, offering unforgettable experiences. Come for the sights, stay for the stories. Dublin, where every corner tells a story, beckons you."
 msgstr "Ανακαλύψτε το Δουβλίνο, την καρδιά της Ιρλανδίας, όπου η ιστορία και οι σύγχρονοι χρόνοι αναμειγνύονται αρμονικά. Περιπλανηθείτε στα ακονισμένα δρομάκια, εξερευνήστε αρχαία κάστρα και απολαύστε τη ζωντανή νυχτερινή ζωή. Ζήστε τη ζεστασιά της ιρλανδικής φιλοξενίας σε παραδοσιακές ταβέρνες, απολαμβάνοντας τοπικά εδέσματα. Εμβαθύνετε στον πλούτο της πολιτιστικής κληρονομιάς σε μουσεία και γκαλερί παγκόσμιας κλάσης. Το Δουβλίνο περιμένει με ανοιχτές αγκάλες, προσφέροντας αξέχαστες εμπειρίες. Έλα για τα αξιοθέατα, μείνε για τις ιστορίες. Το Δουβλίνο, όπου κάθε γωνιά αφηγείται μια ιστορία, σε προσκαλεί."
+
+
+msgid "Welcome To Dublin City Tourism Page"
+msgstr "Καλώς ήρθατε στη σελίδα τουρισμού της πόλης του Δουβλίνου"
+
+msgid "Discover the best places to visit, eat and enjoy"
+msgstr "Ανακαλύψτε τα καλύτερα μέρη για επίσκεψη, φαγητό και διασκέδαση"
+
+msgid "Sign Up for Email Subscription"
+msgstr "Εγγραφείτε για συνδρομή σε email"
+
+msgid "Your Email Address"
+msgstr "Η διεύθυνση email σας"

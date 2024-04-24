@@ -153,3 +153,55 @@ footer {
     width: 150px;
     height: 100px;
 }
+
+
+
+
+.email-subscription {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.email-subscription h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.email-subscription input[type="email"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+.subscribe-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.subscribe-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+.explore-testimonials {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.explore-button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.explore-button:hover {
+    background-color: #218838;
+}
